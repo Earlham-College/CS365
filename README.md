@@ -15,9 +15,10 @@ This is the new one
 ![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Ftwitter.com%2Fjaorduc&style=social&logo=twitter&logoColor=blue&color=white)
 
 
+![Follow @jaorduc](https://img.shields.io/twitter/follow/jaorduc?label=follow&logo=twitter&logoColor=lkj&style=plastic)
 
 
-[![X - jaorduc](https://img.shields.io/badge/X-jaorduc-2ea44f?style=for-the-badge&logo=X&logoColor=black)](https://twitter.com/jaorduc)
+[![Follow @jaorduc](https://img.shields.io/static/v1?label=X&message=jaorduc&color=2ea44f&style=plastic&logo=X&logoColor=black)](https://twitter.com/jaorduc)
 
 
 
