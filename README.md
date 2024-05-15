@@ -6,9 +6,13 @@
 
 [![CC License][license-badge]][license]  [![DS](https://img.shields.io/badge/downloads-DS-green)](https://github.com/Earlham-College/DS_Fall_2022)  [![Github](https://img.shields.io/badge/jaorduz-repos-blue)](https://github.com/jaorduz/)  ![Follow @jaorduc](https://img.shields.io/twitter/follow/jaorduc?label=follow&logo=twitter&logoColor=lkj&style=plastic)
 
+![Follow @jaorduc](https://img.shields.io/X/follow/jaorduc?label=follow&logo=twitter&logoColor=lkj&style=plastic)
+
 This is the new one
 
 ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Ftwitter.com%2Fjaorduc)
+
+![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Ftwitter.com%2Fjaorduc&style=social&logo=twitter&logoColor=blue&color=white)
 
 
 
