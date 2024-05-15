@@ -16,6 +16,15 @@ This is the new one
 
 
 
+
+[![X - jaorduc](https://img.shields.io/badge/X-jaorduc-2ea44f?style=for-the-badge&logo=X&logoColor=black)](https://twitter.com/jaorduc)
+
+
+
+
+[![X - jaorduc](https://img.shields.io/static/v1?label=X&message=jaorduc&color=2ea44f&style=for-the-badge&logo=X&logoColor=black)](https://twitter.com/jaorduc)
+
+
 This repo has material of my course course on ML and AI Spring 2024.
 
 
