@@ -18,14 +18,10 @@
 [myXprofile]:https://twitter.com/jaorduc
 
 
-[[![website - jaorduz.github.io][mywebsiteBDG]][mywebsite]]
-
-[![Github][mygithubBDG-jaorduz]][https://github.com/jaorduz/]
-
+[![website - jaorduz.github.io][mywebsiteBDG]][mywebsite]
+[![Github][mygithubBDG-jaorduz]][mygithub-jaorduz]
 [![Github][mygithubBDG-jaorduc]][mygithub-jaorduc]
-
 [![Follow @jaorduc][myXprofileBDG]][myXprofile]
-
 [![CC License][licenseBDG]][license]
 
 
