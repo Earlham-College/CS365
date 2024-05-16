@@ -4,8 +4,8 @@
 
 [![website - jaorduz.github.io](https://img.shields.io/badge/website-jaorduz.github.io-0abeeb?style=plastic)](https://jaorduz.github.io/)
 [![DS](https://img.shields.io/badge/downloads-DS-green)](https://github.com/Earlham-College/DS_Fall_2022)  
-[![Github](https://img.shields.io/badge/jaorduz-repos-blue)](https://github.com/jaorduz/) 
-[![Github](https://img.shields.io/badge/jaorduz-repos-blue)](https://github.com/jaorduc/) 
+[![Github](https://img.shields.io/badge/jaorduz-repos-blue?logo=github&label=jaorduz)](https://github.com/jaorduz/) 
+[![Github](https://img.shields.io/badge/jaorduc-repos-blue&logo=github&label=jaorduc)](https://github.com/jaorduc/) 
 [![Follow @jaorduc](https://img.shields.io/static/v1?label=Follow&message=jaorduc&color=2ea44f&style=plastic&logo=X&logoColor=black)](https://twitter.com/jaorduc)
 [license-badge]: https://img.shields.io/badge/License-CC-orange
 [license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
