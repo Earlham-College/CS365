@@ -18,15 +18,15 @@
 [myXprofile]:https://twitter.com/jaorduc
 
 
-([![website - jaorduz.github.io][mywebsiteBDG]][mywebsite])
+[[![website - jaorduz.github.io][mywebsiteBDG]][mywebsite]]
 
-([![Github][mygithubBDG-jaorduz]][https://github.com/jaorduz/])
+[![Github][mygithubBDG-jaorduz]][https://github.com/jaorduz/]
 
-([![Github][mygithubBDG-jaorduc]][mygithub-jaorduc])
+[![Github][mygithubBDG-jaorduc]][mygithub-jaorduc]
 
-([![Follow @jaorduc][myXprofileBDG]][myXprofile])
+[![Follow @jaorduc][myXprofileBDG]][myXprofile]
 
-([![CC License][licenseBDG]][license])
+[![CC License][licenseBDG]][license]
 
 
 
