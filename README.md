@@ -1,13 +1,15 @@
 
 # Machine Learning and Artificial Intelligence
 #### By: Javier Orduz
+
+[![website - jaorduz.github.io](https://img.shields.io/badge/website-jaorduz.github.io-0abeeb?style=for-the-badge)](https://jaorduz.github.io/)
+
 [license-badge]: https://img.shields.io/badge/License-CC-orange
 [license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
 
-[![CC License][license-badge]][license]  [![DS](https://img.shields.io/badge/downloads-DS-green)](https://github.com/Earlham-College/DS_Fall_2022)  [![Github](https://img.shields.io/badge/jaorduz-repos-blue)](https://github.com/jaorduz/)  ![Follow @jaorduc](https://img.shields.io/twitter/follow/jaorduc?label=follow&logo=twitter&logoColor=lkj&style=plastic)
-
-
-
+[![CC License][license-badge]][license]  
+[![DS](https://img.shields.io/badge/downloads-DS-green)](https://github.com/Earlham-College/DS_Fall_2022)  
+[![Github](https://img.shields.io/badge/jaorduz-repos-blue)](https://github.com/jaorduz/)  
 [![Follow @jaorduc](https://img.shields.io/static/v1?label=Follow&message=jaorduc&color=2ea44f&style=plastic&logo=X&logoColor=black)](https://twitter.com/jaorduc)
 
 
