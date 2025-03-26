@@ -2,22 +2,22 @@
 #__pycache__/ 
 #*.py[cod]
 #*$py.class
-.DS_store
 
 
 # Distribution / packaging
 .Python
 professor/
-
+.ipynb_checkpoints/
 
 
 ## PyBuilder
 #.pybuilder/ target/
 
 ## Jupyter Notebook
+
+
 .ipynb_checkpoints/
-A_DecisionTree/
-.ipynb_checkpoints/
+*.ipynb
 
 ## IPython
 #profile_default/

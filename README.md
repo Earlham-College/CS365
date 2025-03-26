@@ -36,7 +36,6 @@ This repo has material of my course course on ML and AI Spring 2024.
 1. [Exercises](#exercises)
 1. [References](#references)
 
-----------------
 <hr>
 <header><h2>
 1. Python Basics <a name = pythonBasics></a>
@@ -47,8 +46,7 @@ Enclosed is supplementary material. I'll endeavor to compile all references; kin
 
 <hr>
 <div id="pythonPackages">
-    <h2>1. Python Basics</h2>
-Notice: 
+    <h2>2. Python: Packages, Modules, and</h2>
 
 You might need to uncomment and install the pydotplus and graphviz libraries if you have not installed these before.
 ```python
@@ -57,12 +55,13 @@ conda install -c conda-forge python-graphviz -y
 pip3 install pydotplus
 pip3 install graphviz
 ```
-
 </div>
 
-Extra material: 
+<hr>
+<div id="pythonPackages">
+    <h2>3. Extra material: </h2>
 
-<!--
+
 - [Harvard CS50’s Introduction to Programming with Python – Full University Course ](https://tinyurl.com/2pa4f3k5)
 
 - [Introduction to Data Science with Python](https://pll.harvard.edu/course/introduction-data-science-python)
@@ -73,7 +72,7 @@ Extra material:
 Please use this folder to put your a clone/copy of your own repository.
 [students repo](https://github.com/Earlham-College/DS401EC/tree/main/students)
 
--->
+</div>
 
 # References <a name="references"></a>
 
