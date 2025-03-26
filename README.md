@@ -67,10 +67,6 @@ pip3 install graphviz
 - [Introduction to Data Science with Python](https://pll.harvard.edu/course/introduction-data-science-python)
 
 
-## 2. Folders <a name = folders></a>
-### Students folder
-Please use this folder to put your a clone/copy of your own repository.
-[students repo](https://github.com/Earlham-College/DS401EC/tree/main/students)
 
 </div>
 
