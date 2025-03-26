@@ -2,7 +2,7 @@
 #__pycache__/ 
 #*.py[cod]
 #*$py.class
-
+.DS_store
 
 
 # Distribution / packaging
@@ -15,7 +15,9 @@ professor/
 #.pybuilder/ target/
 
 ## Jupyter Notebook
-.ipynb_checkpoints
+.ipynb_checkpoints/
+A_DecisionTree/
+.ipynb_checkpoints/
 
 ## IPython
 #profile_default/

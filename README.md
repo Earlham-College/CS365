@@ -37,10 +37,28 @@ This repo has material of my course course on ML and AI Spring 2024.
 1. [References](#references)
 
 ----------------
-
-## 1. Python Basics <a name = pythonBasics></a>
-
+<hr>
+<header><h2>
+1. Python Basics <a name = pythonBasics></a>
+</header>
 Enclosed is supplementary material. I'll endeavor to compile all references; kindly flag any omissions of papers, repositories, or slides. I'm enthusiastic to incorporate your content into my documentation.
+
+
+
+<hr>
+<div id="pythonPackages">
+    <h2>1. Python Basics</h2>
+Notice: 
+
+You might need to uncomment and install the pydotplus and graphviz libraries if you have not installed these before.
+```python
+conda install -c conda-forge pydotplus -y
+conda install -c conda-forge python-graphviz -y
+pip3 install pydotplus
+pip3 install graphviz
+```
+
+</div>
 
 Extra material: 
 
