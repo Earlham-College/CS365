@@ -1,6 +1,4 @@
-
-# Machine Learning and Artificial Intelligence
-#### By: Javier Orduz
+<div id="header"><p style="color:#3364ff; text-align:center; font-weight:bold; font-family:verdana; font-size:25px;">Machine Learning and Artificial Intelligence</p></div>
 
 [licenseBDG]: https://img.shields.io/badge/License-CC-orange?style=plastic
 [license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
@@ -24,11 +22,13 @@
 [![Follow @jaorduc][myXprofileBDG]][myXprofile]
 [![CC License][licenseBDG]][license]
 
+---
 
+<p style="text-align:right; font-family:verdana;"><a href="mywebsite" style="color:#3364ff; text-decoration:none;";name = "website">@Javier Orduz</a></p>    
+
+---
 
 This repo has material of my course course on ML and AI Spring 2024.
-
-
 
 ## Contents
 1. [Python Basics](#pythonBasics)
@@ -49,17 +49,17 @@ Extra material:
 
 - [Introduction to Data Science with Python](https://pll.harvard.edu/course/introduction-data-science-python)
 
-<!-- []() -->
 
 ## 2. Folders <a name = folders></a>
 ### Students folder
 Please use this folder to put your a clone/copy of your own repository.
 [students repo](https://github.com/Earlham-College/DS401EC/tree/main/students)
 
+-->
 
 # References <a name="references"></a>
 
 [1] https://github.com/cs109/2015lab1
 [2] https://harvard-iacs.github.io/2019-CS109A/pages/materials.html
 
--->
+
