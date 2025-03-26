@@ -60,6 +60,5 @@ Please use this folder to put your a clone/copy of your own repository.
 # References <a name="references"></a>
 
 [1] https://github.com/cs109/2015lab1
+
 [2] https://harvard-iacs.github.io/2019-CS109A/pages/materials.html
-
-
